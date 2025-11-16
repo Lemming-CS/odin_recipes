@@ -1,0 +1,18 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.main_container {
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.recipelink {
+    background-color: rgba(65, 105, 225, 0.021);
+}
+
+.recipelink:hover {
+    background-color: aqua;
+}

@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 1100px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.homelink {
+    margin: 20px 0px;
+    padding: 5px 0px;
+    background-color: rgba(65, 105, 225, 0.021);
+    font-size: 36px;
+}
+
+.homelink:hover {
+    background-color: aqua;
+}
